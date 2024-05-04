@@ -1,1 +1,2 @@
 # LogginJWT
+Login project with json web token. The client is made with React.js + bootstrap, the server is made in express.js and the Database management was made with MySQL. Before starting the service on both the client and the server, you must first populate the database with some users and passwords. Then you must start the server; through the console navigate to ''server/serc/" and execute the command "node index.js". Then start the client by navigating through the console to the "frontend" folder and execute the command "npm run dev"
